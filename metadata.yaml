@@ -1,4 +1,8 @@
 _repo: Bartholomew-Fair-A-Comedy_49461
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49461-h/images/cover.jpg
 creator:
   author:
     agent_name: Jonson, Ben
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1269
     wikipedia: http://en.wikipedia.org/wiki/Ben_Jonson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49461#Bartholomew-Fair-A-Comedy
 gutenberg_issued: '2015-07-16'
 gutenberg_type: Text
 identifiers:
